@@ -1,0 +1,7 @@
+{
+  "name": "TecXAI",
+  "short_name": "TecXAI",
+  "description": "Your custom app description here",
+  "start_url": "/tecxai-source-code/",
+  "display": "standalone"
+}
