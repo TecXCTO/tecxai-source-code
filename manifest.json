@@ -3,5 +3,17 @@
   "short_name": "TecXAI",
   "description": "Your custom app description here",
   "start_url": "/tecxai-source-code/",
-  "display": "standalone"
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
