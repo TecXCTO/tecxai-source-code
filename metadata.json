@@ -1,0 +1,6 @@
+{
+  "name": "TECXAI",
+  "description": "Official AI mobile and device application by TECX Private Limited featuring dual local and cloud processing, smart Android battery management with customizable loud alerts, and interactive 3D Rubik's Cube with AI puzzle solver.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
